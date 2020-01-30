@@ -1,0 +1,36 @@
+{
+  "streams": [
+    {
+      "title": "my first stream",
+      "description": "my first stream",
+      "id": 1
+    },
+    {
+      "title": "ssdasadsa",
+      "description": "asd",
+      "id": 2
+    },
+    {
+      "title": "asdasdasdasd",
+      "description": "editi",
+      "id": 3
+    },
+    {
+      "title": "user details",
+      "description": "user details new Stream - edited",
+      "id": 4
+    },
+    {
+      "title": "navigate test -update",
+      "description": "navigate test desc - patch",
+      "userId": "107522705988382800954",
+      "id": 5
+    },
+    {
+      "title": "new stream with form elem",
+      "description": "new stream with form elem",
+      "userId": "107522705988382800954",
+      "id": 6
+    }
+  ]
+}
